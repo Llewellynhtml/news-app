@@ -9,7 +9,7 @@ function App() {
 
 
     <div className="App">
-  <h1>News</h1>
+  <h1>NEWS HUB</h1>
   
    <NewsList/>
       
